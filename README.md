@@ -1,2 +1,2 @@
 # Udacity-DataAnalysisND
-Udacity-Data Analysis Nano Degree Projects
+Udacity-Data Analyst Nano Degree Projects
